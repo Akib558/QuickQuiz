@@ -1,0 +1,6 @@
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/Akib558/QQ-QuickQuizF
+[submodule "BackEnd"]
+	path = BackEnd
+	url = https://github.com/Akib558/QQ-QuickQuiz
